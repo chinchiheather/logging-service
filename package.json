@@ -1,0 +1,21 @@
+{
+  "name": "logging-service",
+  "version": "1.0.1",
+  "description": "Service that listens for messages over HTTP and logs them to console",
+  "main": "index.js",
+  "author": "Heather Roberts <heatherroberts@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "colors": "^1.1.2",
+    "cors": "^2.7.1",
+    "date-format": "0.0.2",
+    "express": "^4.13.3"
+  },
+  "keywords": [
+    "logging",
+    "log",
+    "service",
+    "http"
+  ]
+}
